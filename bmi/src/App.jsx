@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1>Body Mass Index</h1>
+      <h1>Body Mass Index Calculator</h1>
 
       <input
         type="number"
