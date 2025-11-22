@@ -58,7 +58,9 @@ function App() {
 }
 
 const styles = {
-  background: "pink",
+  background: "blue",
+  fontSize: "40px",
+  
 
   container: {
     width: "450px",
