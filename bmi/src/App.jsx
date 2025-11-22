@@ -59,7 +59,7 @@ function App() {
 
 const styles = {
   background: "blue",
-  fontSize: "40px",
+  fontSize: "100px",
   
 
   container: {
